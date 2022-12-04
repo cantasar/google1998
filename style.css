@@ -1,0 +1,24 @@
+.logo{
+    width: 30%;
+}
+.grey{
+    background-color: #EEEEEE;
+}
+td {
+    display: table-cell;
+    vertical-align: inherit;
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+    padding: 20px;
+}
+table {
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    width: 90%;
+    
+}
